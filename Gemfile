@@ -8,4 +8,5 @@ group :test do
   gem 'rspec'
   gem 'rubocop'
   gem 'simplecov'
+  gem 'erb_lint'
 end
