@@ -2,7 +2,3 @@ extends: default
 
 rules:
   line-length: disable
-  # Comments indentation will look weird
-  # because we want indentation to look
-  # proper in unindentented versions
-  comments: disable

@@ -1,27 +1,16 @@
-<!-- 
-Note: You may see "This branch is out-of-date with the base branch"
-when you submit a pull request. This is fine! We don't use the GitHub
-merge button to merge PRs, and you can safely ignore that message.
+<!--
+Complete the self-review checklist to help speed up the review process: https://googlecloudplatform.github.io/magic-modules/contribute/review-pr/
 
-Thanks for contributing!
+If your PR is still work in progress, please create it in draft mode.
+
+Put a description of what this PR is for here, along with any references to issues that this resolves or contributes to.
+For example: Fixes https://github.com/hashicorp/terraform-provider-google/issues/ISSUE_ID
 -->
 
-<!-- CHANGELOG for Downstream PRs.
-EXTERNAL CONTRIBUTORS: Your reviewer will most likely fill this in for you, so don't worry about this section!
+**Release Note Template for Downstream PRs (will be copied)**
 
-For some repos (currently Terraform GA/beta providers), we have the
-ability to autogenerate CHANGELOGs.
+See [Write release notes](https://googlecloudplatform.github.io/magic-modules/contribute/release-notes/) for guidance.
 
-Fill in the following release note code block to have it be added to the CHANGELOG, or leave the block empty if you don't expect this to be added to a downstream PR (i.e. docs-only changes or non-user facing changes)
-
-Please also add any of the following appropriate labels to the PR:
-- changelog: bugfix
-- changelog: new-resource
-- changelog: new-datasource
-- changelog: deprecation
-- changelog: breaking-change
--->
-# Release Note for Downstream PRs (will be copied)
-```releasenote
+```release-note:REPLACEME
 
 ```
